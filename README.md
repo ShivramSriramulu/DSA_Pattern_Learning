@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
