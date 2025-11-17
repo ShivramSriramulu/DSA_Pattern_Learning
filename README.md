@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
