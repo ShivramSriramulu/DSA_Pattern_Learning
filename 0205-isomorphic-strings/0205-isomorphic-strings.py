@@ -1,20 +1,15 @@
-class Solution(object):
+class Solution:
     def isIsomorphic(self, s, t):
-        if len(s) != len(t):
-            return False
-        mapst = {}
-        mapts = {}
-        for i in range(len(s)):
-            c1 = s[i]
-            c2 = t[i]
-
-            if c1 in mapst and mapst[c1] != c2:
+        map_st = {}
+        map_ts = {}
+        
+        for c1, c2 in zip(s, t):
+            if c1 in map_st and map_st[c1] != c2:
                 return False
-            if c2 in mapts and mapts[c2] != c1:
+            if c2 in map_ts and map_ts[c2] != c1:
                 return False
-            mapst[c1] = c2
-            mapts[c2] = c1
+            
+            map_st[c1] = c2
+            map_ts[c2] = c1
+        
         return True
-
-
-       
