@@ -26,6 +26,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2378-sender-with-largest-word-count) |
 | [3994-find-the-least-frequent-digit](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/3994-find-the-least-frequent-digit) |
@@ -58,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2378-sender-with-largest-word-count) |
 ## Heap (Priority Queue)
