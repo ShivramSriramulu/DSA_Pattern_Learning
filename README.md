@@ -58,6 +58,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
