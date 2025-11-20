@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
@@ -42,6 +43,7 @@
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
