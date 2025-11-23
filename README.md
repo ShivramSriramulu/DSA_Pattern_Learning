@@ -66,6 +66,7 @@
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1768-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2378-sender-with-largest-word-count) |
@@ -112,6 +113,7 @@
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
