@@ -9,6 +9,8 @@ class Solution(object):
             if j < len(word2):
                 result.append(word2[j])
                 j +=1
-        return "".join(result)
+            
+        return ''.join(result)
+     
 
 
