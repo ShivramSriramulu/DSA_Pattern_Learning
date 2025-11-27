@@ -1,9 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        hash={}
+
+        map ={}
+
         for i,num in enumerate(nums):
-            c=target - num
-            if c in hash:
-                return [hash[c],i]
-            hash[num]=i
-        
+            comp = target - num
+            if comp in map:
+                return [map[comp], i]
+            map[num] = i
+
+     
