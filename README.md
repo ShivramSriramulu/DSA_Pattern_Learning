@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -46,6 +47,7 @@
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting
@@ -112,6 +114,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
