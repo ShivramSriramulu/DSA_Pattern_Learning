@@ -68,6 +68,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0844-backspace-string-compare) |
@@ -120,6 +121,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0917-reverse-only-letters) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
