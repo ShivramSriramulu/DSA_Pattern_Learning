@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
