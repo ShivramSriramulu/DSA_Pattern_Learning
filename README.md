@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
@@ -120,6 +121,7 @@
 | [0027-remove-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
