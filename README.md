@@ -86,6 +86,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2378-sender-with-largest-word-count) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Rolling Hash
 |  |
 | ------- |
