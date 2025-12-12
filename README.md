@@ -18,6 +18,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
