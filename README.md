@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
@@ -164,5 +165,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
