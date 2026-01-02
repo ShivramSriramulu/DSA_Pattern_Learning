@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
@@ -53,6 +55,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
