@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
@@ -84,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
