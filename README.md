@@ -39,6 +39,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
