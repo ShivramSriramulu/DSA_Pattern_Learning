@@ -41,6 +41,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -93,6 +94,7 @@
 | [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0917-reverse-only-letters) |
