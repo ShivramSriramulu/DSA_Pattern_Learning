@@ -18,6 +18,7 @@
 | [0724-find-pivot-index](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1019-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1480-running-sum-of-1d-array) |
@@ -43,6 +44,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0782-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
