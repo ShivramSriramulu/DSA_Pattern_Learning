@@ -24,6 +24,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1748-sum-of-unique-elements) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -49,6 +50,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1319-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1748-sum-of-unique-elements) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -82,6 +84,7 @@
 | [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1748-sum-of-unique-elements) |
 | [1848-sum-of-unique-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/2378-sender-with-largest-word-count) |
