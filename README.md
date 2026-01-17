@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
@@ -135,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 ## Sliding Window
