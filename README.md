@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
@@ -41,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
@@ -70,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
@@ -167,6 +170,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0905-sort-array-by-parity) |
@@ -177,6 +181,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/ShivramSriramulu/DSA_Pattern_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
